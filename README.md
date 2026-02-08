@@ -83,7 +83,7 @@ To run the application, the **Flutter SDK** is required.
 ---
 
 <a name="russian"></a>
-# Rust Key Binder (RU)
+# Rust Key Binder (Russian)
 
 **Rust Key Binder** — это мощный и интуитивно понятный инструмент для управления биндами в игре Rust. Забудьте о ручном вводе сложных консольных команд — создавайте профессиональные макросы и настройки через удобный визуальный интерфейс.
 
